@@ -1,0 +1,222 @@
+[
+  {
+    "id": "rooftop_garden_en_0001",
+    "title": "Which Indoor Plants Are Commonly Grown?",
+    "category": "Indoor Plants",
+    "tags": ["indoor plants", "examples", "houseplants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Examples of indoor plants include Erica Palm, Rubber Plant, Money Plant, Bot Pata, Lucky Bamboo, Corton, Bakul, Snake Plant, Aglaonema (Greenish Pink), Aglaonema (Pink), Astrophytum, Ball Cactus, Dumb Cane, Moon Cactus, Neon Money Plant, Philodendron, Singapore Money Plant, Snow White, Spider Plant, Spike Cactus, and Bunny Ear Cactus."
+  },
+  {
+    "id": "rooftop_garden_en_0002",
+    "title": "Do Indoor Plants Need Sunlight?",
+    "category": "Indoor Plants",
+    "tags": ["sunlight", "light requirement", "indoor plants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Indoor plants generally need partial or indirect sunlight to grow well."
+  },
+  {
+    "id": "rooftop_garden_en_0003",
+    "title": "Can Money Plant Survive in Water?",
+    "category": "Indoor Plants",
+    "tags": ["money plant", "water growth", "hydroponic"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, the Money Plant can grow in water."
+  },
+  {
+    "id": "rooftop_garden_en_0004",
+    "title": "Is Erica Palm Large or Medium-Sized?",
+    "category": "Indoor Plants",
+    "tags": ["Erica Palm", "size", "indoor plant"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "The Erica Palm is medium in size."
+  },
+  {
+    "id": "rooftop_garden_en_0005",
+    "title": "Is Rubber Plant an Air Purifier?",
+    "category": "Indoor Plants",
+    "tags": ["rubber plant", "air purifier", "indoor plants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, the Rubber Plant helps purify the air indoors."
+  },
+  {
+    "id": "rooftop_garden_en_0006",
+    "title": "Is Snake Plant Easy to Grow?",
+    "category": "Indoor Plants",
+    "tags": ["snake plant", "easy care", "indoor plants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, the Snake Plant is very easy to grow and maintain."
+  },
+  {
+    "id": "rooftop_garden_en_0007",
+    "title": "Can Lucky Bamboo Grow in Water?",
+    "category": "Indoor Plants",
+    "tags": ["lucky bamboo", "water growth", "indoor plants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, Lucky Bamboo can grow in water."
+  },
+  {
+    "id": "indoor_plants_0008",
+    "title": "Why is Aglaonema Popular?",
+    "category": "Indoor Plants",
+    "tags": ["Aglaonema", "low light", "colorful", "popular plants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Aglaonema is popular because it is colorful and can survive in low sunlight conditions."
+  },
+  {
+    "id": "indoor_plants_0009",
+    "title": "Does Moon Cactus Need Light?",
+    "category": "Indoor Plants",
+    "tags": ["Moon Cactus", "light requirement", "cactus care"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Moon Cactus needs bright light to grow well."
+  },
+  {
+    "id": "indoor_plants_0010",
+    "title": "What Type of Plant is Astrophytum?",
+    "category": "Indoor Plants",
+    "tags": ["Astrophytum", "cactus", "indoor plant"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Astrophytum is a popular cactus species suitable for indoor cultivation."
+  },
+  {
+    "id": "indoor_plants_0011",
+    "title": "Is Philodendron a Hanging Plant?",
+    "category": "Indoor Plants",
+    "tags": ["Philodendron", "hanging plant", "creeping plant"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Some species of Philodendron are creeping and can be used as hanging plants."
+  },
+  {
+    "id": "indoor_plants_0012",
+    "title": "Why is Neon Money Plant Yellow-Green?",
+    "category": "Indoor Plants",
+    "tags": ["Neon Money Plant", "color", "species traits"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "The yellow-green color of Neon Money Plant is a characteristic of its species."
+  },
+  {
+    "id": "indoor_plants_0013",
+    "title": "Is Dumb Cane Poisonous?",
+    "category": "Indoor Plants",
+    "tags": ["Dumb Cane", "poisonous", "indoor plant safety"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, the leaves of Dumb Cane are poisonous and should be handled carefully."
+  },
+  {
+    "id": "indoor_plants_0014",
+    "title": "Does Spider Plant Spread Quickly?",
+    "category": "Indoor Plants",
+    "tags": ["Spider Plant", "growth rate", "propagation"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, Spider Plant spreads very quickly and can produce many offshoots."
+  },
+  {
+    "id": "indoor_plants_0015",
+    "title": "Can Bakul Be Kept Indoors?",
+    "category": "Indoor Plants",
+    "tags": ["Bakul", "indoor suitability", "outdoor plant"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "No, Bakul is better suited for outdoor planting rather than indoors."
+  },
+  {
+    "id": "indoor_plants_0016",
+    "title": "Does Cactus Require Very Little Water?",
+    "category": "Indoor Plants",
+    "tags": ["Cactus", "watering", "low water requirement"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, cactus requires very little water and is drought-tolerant."
+  },
+  {
+    "id": "indoor_plants_0017",
+    "title": "How Long After Fertilizer for Indoor Plants?",
+    "category": "Indoor Plants",
+    "tags": ["fertilizer", "indoor plants", "frequency"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Indoor plants should be fertilized every 30 days for optimal growth."
+  },
+  {
+    "id": "indoor_plants_0018",
+    "title": "What Should I Do if the Money Plant Is Tall?",
+    "category": "Indoor Plants",
+    "tags": ["Money Plant", "pruning", "height control"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "If the Money Plant becomes too tall, prune it to maintain shape and health."
+  },
+  {
+    "id": "indoor_plants_0019",
+    "title": "Will Cactus Rot if Watered?",
+    "category": "Indoor Plants",
+    "tags": ["Cactus", "watering", "overwatering", "indoor plants"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, cactus can rot if it is overwatered. Water sparingly."
+  },
+  {
+    "id": "indoor_plants_0020",
+    "title": "What to Do if There Are Insects Indoors?",
+    "category": "Indoor Plants",
+    "tags": ["Indoor plants", "pest control", "insects", "neem oil"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Use neem oil spray to control insects on indoor plants."
+  },
+  {
+    "id": "indoor_plants_0021",
+    "title": "Is Corten a Colorful Plant?",
+    "category": "Indoor Plants",
+    "tags": ["Corten", "colorful plant", "indoor plant"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Yes, Corten is a colorful plant that adds visual interest indoors."
+  },
+  {
+    "id": "indoor_plants_0022",
+    "title": "Does Aglaonema Like Shade?",
+    "category": "Indoor Plants",
+    "tags": ["Aglaonema", "shade", "light requirement", "indoor plant"],
+    "difficulty": "Beginner",
+    "language": "English",
+    "source": "Indoor Gardening Guide",
+    "content": "Aglaonema prefers partial shade and can tolerate low-light conditions."
+  }
+]

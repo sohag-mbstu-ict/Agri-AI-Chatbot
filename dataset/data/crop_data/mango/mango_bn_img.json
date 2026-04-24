@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ag_banana_disease_overview_0001",
+    "title": "আমের প্রধান রোগগুলো কী কী?",
+    "crop": "আম",
+    "category": "Crop Disease",
+    "plant_stage": "All Stages",
+    "problem_type": "Disease Identification",
+    "solution_type": "General Awareness",
+    "tags": ["আম", "অ্যানথ্রাকনোজ", "পাউডারি মিলডিউ", "ডাইব্যাক বা আগামরা", "কালো দাগ" ,"আঠা ঝরা" ],
+    "content": "আমের বিভিন্ন রোগ দেখা যায় যেমন অ্যানথ্রাকনোজ, পাউডারি মিলডিউ, ডাইব্যাক বা আগামরা, কালো দাগ বা ব্যাকটেরিয়াল ক্যানকার, আঠা ঝরা যা ফলন উল্লেখযোগ্যভাবে কমিয়ে দেয়।",
+    "retrieval_keywords": "আমের রোগ সমস্যা",
+    "language": "bn",
+    "difficulty": "beginner",
+    "source": "কৃষি নির্দেশিকা",
+    "has_images": true,
+    "embedding_text": "আমের প্রধান রোগ: অ্যানথ্রাকনোজ, পাউডারি মিলডিউ, ডাইব্যাক বা আগামরা, কালো দাগ বা ব্যাকটেরিয়াল ক্যানকার, আঠা ঝরা"
+  },
+  {
+    "id": "ag_banana_disease_overview_0001",
+    "title": "আমের অ্যানথ্রাকনোজ রোগ কী?",
+    "crop": "আম",
+    "pest_or_disease": "anthracnose_of_fruit",
+    "category": "Crop Disease",
+    "plant_stage": "All Stages",
+    "problem_type": "Disease Identification",
+    "solution_type": "General Awareness",
+    "tags": ["আম", "অ্যানথ্রাকনোজ" ],
+    "content": "আমের বিভিন্ন রোগ দেখা যায় যেমন অ্যানথ্রাকনোজ যা ফলন উল্লেখযোগ্যভাবে কমিয়ে দেয়।",
+    "retrieval_keywords": "আমের রোগ সমস্যা",
+    "language": "bn",
+    "difficulty": "beginner",
+    "source": "কৃষি নির্দেশিকা",
+    "has_images": true,
+    "embedding_text": "আমের রোগ: অ্যানথ্রাকনোজ"
+  }
+]

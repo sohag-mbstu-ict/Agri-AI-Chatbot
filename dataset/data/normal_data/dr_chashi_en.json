@@ -1,0 +1,95 @@
+[
+  {
+    "id": "dr_chashi_intro_en_001",
+    "title": "What is Dr. Chashi?",
+    "category": "About Dr. Chashi",
+    "tags": [
+      "Dr. Chashi",
+      "AI agriculture app",
+      "digital agriculture",
+      "AI farming",
+      "Bangladesh agriculture"
+    ],
+    "content": "Dr. Chashi is an AI-based mobile Android application designed to support agriculture in Bangladesh. It is the first AI-powered digital agricultural system in the country. The app uses artificial intelligence to provide smart and accessible agricultural assistance through a mobile platform.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Dr. Chashi Official Description"
+  },
+  {
+    "id": "dr_chashi_functionality_en_002",
+    "title": "What Does Dr. Chashi Do?",
+    "category": "About Dr. Chashi",
+    "tags": [
+      "crop disease detection",
+      "pest identification",
+      "AI crop diagnosis",
+      "rooftop gardening",
+      "field crops"
+    ],
+    "content": "Dr. Chashi identifies diseases and pests affecting rooftop gardens and field crops using artificial intelligence. The application analyzes crop conditions and provides practical solutions, including treatment recommendations and preventive measures, to help reduce crop damage and improve productivity.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Dr. Chashi Official Description"
+  },
+  {
+    "id": "dr_chashi_supported_crops_en_003",
+    "title": "Which Crops Does Dr. Chashi Support?",
+    "category": "App Features",
+    "tags": [
+      "supported crops",
+      "crop coverage",
+      "agricultural solutions",
+      "Dr. Chashi features"
+    ],
+    "content": "Currently, Dr. Chashi provides AI-based solutions for major diseases and pests affecting 41 different crops. Detailed information about the supported crops and their specific disease and pest coverage is available in the app features section.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Dr. Chashi App Features"
+  },
+  {
+    "id": "dr_chashi_app_download_en_004",
+    "title": "Where and How to Get the Dr. Chashi App",
+    "category": "App Usage",
+    "tags": [
+      "Dr. Chashi app download",
+      "Google Play Store",
+      "Android app",
+      "install Dr. Chashi"
+    ],
+    "content": "The Dr. Chashi app can be downloaded from the Google Play Store using an Android smartphone. Users need to search for the Dr. Chashi app on the Play Store and install it to start using the services.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Dr. Chashi Official Information"
+  },
+  {
+    "id": "dr_chashi_app_cost_en_005",
+    "title": "Is the Dr. Chashi App Free to Use?",
+    "category": "App Usage",
+    "tags": [
+      "Dr. Chashi cost",
+      "free agriculture app",
+      "app pricing",
+      "internet requirement"
+    ],
+    "content": "The Dr. Chashi app is completely free to use for everyone across the country. There is no subscription or usage fee. However, users need mobile data or an internet connection to access the app and its features.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Dr. Chashi Official Information"
+  },
+  {
+    "id": "dr_chashi_contact_support_en_006",
+    "title": "How to Get More Information About Dr. Chashi",
+    "category": "Support",
+    "tags": [
+      "Dr. Chashi helpline",
+      "customer support",
+      "24/7 support",
+      "contact Dr. Chashi"
+    ],
+    "content": "For more information about the Dr. Chashi app, users can contact the 24/7 helpline provided within the application. The support service is available at all times to assist users with app-related questions and guidance.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Dr. Chashi Official Information"
+  }
+]
+

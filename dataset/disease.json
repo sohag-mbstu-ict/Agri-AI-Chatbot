@@ -1,0 +1,55 @@
+{
+  "banana": {
+    "beetle spot": {
+      "description": "Beetle spots cause brown to black lesions on banana leaves, reducing photosynthesis and yield.",
+      "organic_solution": [
+        "Remove and destroy infected leaves",
+        "Apply neem oil spray every 7 days",
+        "Use pheromone traps to control beetles"
+      ],
+      "chemical_solution": [
+        "Spray Imidacloprid 0.3 ml per liter",
+        "Apply Chlorpyrifos 2 ml per liter if infestation is severe"
+      ]
+    },
+    "sigatoka": {
+      "description": "Sigatoka is a fungal disease causing dark streaks and leaf drying in banana plants.",
+      "organic_solution": [
+        "Remove infected leaves",
+        "Apply Trichoderma-based bio-fungicide",
+        "Ensure proper plant spacing"
+      ],
+      "chemical_solution": [
+        "Spray Mancozeb 2 g per liter",
+        "Alternate with Propiconazole to prevent resistance"
+      ]
+    },
+    "panama": {
+      "description": "Panama_Disease is a fungal disease causing dark streaks and leaf drying in banana plants.",
+      "organic_solution": [
+        "Remove infected leaves",
+        "Apply Trichoderma-based bio-fungicide",
+        "Ensure proper plant spacing"
+      ],
+      "chemical_solution": [
+        "Spray Mancozeb 2 g per liter",
+        "Alternate with Propiconazole to prevent resistance"
+      ]
+    }
+  },
+
+  "ash gourd": {
+    "downy mildew": {
+      "description": "Downy mildew causes yellow patches on leaves and white fungal growth on the underside.",
+      "organic_solution": [
+        "Spray baking soda solution (1 tsp per liter)",
+        "Apply neem oil",
+        "Improve air circulation"
+      ],
+      "chemical_solution": [
+        "Spray Metalaxyl + Mancozeb",
+        "Use Copper oxychloride"
+      ]
+    }
+  }
+}

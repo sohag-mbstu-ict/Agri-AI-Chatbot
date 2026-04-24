@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ag_banana_disease_overview_0001",
+    "title": "কলার প্রধান রোগগুলো কী কী?",
+    "crop": "কলা",
+    "category": "Crop Disease",
+    "plant_stage": "All Stages",
+    "problem_type": "Disease Identification",
+    "solution_type": "General Awareness",
+    "tags": [
+      "কলা রোগ",
+      "পানামা রোগ",
+      "সিগাটোকা",
+      "পাতা দাগ"
+    ],
+    "content": "কলায় বিভিন্ন রোগ দেখা যায় যেমন পানামা রোগ, সিগাটোকা ও পাতার দাগ রোগ, যা ফলন উল্লেখযোগ্যভাবে কমিয়ে দেয়।",
+    "retrieval_keywords": "কলা রোগ সিগাটোকা পানামা সমস্যা",
+    "language": "bn",
+    "difficulty": "beginner",
+    "source": "কৃষি নির্দেশিকা",
+    "has_images": true,
+    "embedding_text": "কলার প্রধান রোগ: পানামা, সিগাটোকা ও পাতার দাগ রোগ।"
+  },
+  {
+    "id": "ag_banana_panama_disease_0002",
+    "title": "কলার পানামা রোগ কী এবং এর লক্ষণ কী?",
+    "crop": "কলা",
+    "category": "Crop Disease",
+    "plant_stage": "Growing Stage",
+    "problem_type": "Fungal Disease",
+    "solution_type": "Disease Identification",
+    "tags": [
+      "পানামা রোগ",
+      "ফিউজারিয়াম",
+      "পাতা হলুদ",
+      "গাছ শুকানো"
+    ],
+    "content": "পানামা রোগ একটি মাটিবাহিত ছত্রাকজনিত রোগ (Fusarium oxysporum)। প্রথমে পুরনো পাতায় হলুদ দাগ দেখা যায়, পরে পাতা শুকিয়ে ঝুলে পড়ে। গাছের ভেতরে লালচে-কালো দাগ দেখা যায় এবং পুরো গাছ মারা যেতে পারে।",
+    "retrieval_keywords": "কলা পানামা রোগ লক্ষণ পাতা হলুদ গাছ মারা",
+    "language": "bn",
+    "difficulty": "intermediate",
+    "source": "কৃষি রোগ ব্যবস্থাপনা গাইড",
+    "embedding_text": "পানামা রোগে কলার পাতা হলুদ হয়ে শুকায় এবং গাছ মারা যায়।"
+  },
+  {
+    "id": "ag_indoor_plants_overview_0003",
+    "title": "ঘরের ভিতরে কোন গাছগুলো সহজে ভালো থাকে?",
+    "crop": "ইনডোর প্ল্যান্ট",
+    "category": "Indoor Plants",
+    "plant_stage": "All Stages",
+    "problem_type": "Plant Selection",
+    "solution_type": "General Guidance",
+    "tags": [
+      "ইনডোর গাছ",
+      "স্নেক প্ল্যান্ট",
+      "মানি প্ল্যান্ট",
+      "স্পাইডার প্ল্যান্ট"
+    ],
+    "content": "স্নেক প্ল্যান্ট, জেডজেড প্ল্যান্ট, মানি প্ল্যান্ট ও স্পাইডার প্ল্যান্ট কম আলোতেও ভালো জন্মায় এবং ঘরের সৌন্দর্য বাড়ায়।",
+    "retrieval_keywords": "ইনডোর গাছ কম আলো গাছ মানি প্ল্যান্ট",
+    "language": "bn",
+    "difficulty": "beginner",
+    "has_images": true,
+    "source": "ইনডোর গার্ডেনিং গাইড",
+    "embedding_text": "কম আলোতে ভালো ইনডোর গাছ: স্নেক প্ল্যান্ট, মানি প্ল্যান্ট।"
+  },
+  {
+    "id": "ag_water_plants_overview_0004",
+    "title": "পানিতে জন্মায় এমন গাছের উদাহরণ কী?",
+    "crop": "জলজ উদ্ভিদ",
+    "category": "Water Plants",
+    "plant_stage": "All Stages",
+    "problem_type": "Plant Selection",
+    "solution_type": "General Guidance",
+    "tags": [
+      "জলজ গাছ",
+      "পানি গাছ",
+      "ডেকোরেশন গাছ"
+    ],
+    "content": "কিছু গাছ পানিতে সহজে জন্মায় এবং ঘর বা বাগানের সৌন্দর্য বাড়ায়, যেমন মানি প্ল্যান্ট বা অন্যান্য জলজ উদ্ভিদ।",
+    "retrieval_keywords": "জলজ গাছ পানি গাছ উদাহরণ",
+    "language": "bn",
+    "difficulty": "beginner",
+    "has_images": true,
+    "source": "গার্ডেনিং গাইড",
+    "embedding_text": "পানিতে জন্মানো গাছ ঘরের সৌন্দর্য বাড়ায়।"
+  },
+  {
+    "id": "ag_ash_gourd_disease_0005",
+    "title": "চাল কুমড়ার সাধারণ রোগগুলো কী?",
+    "crop": "চাল কুমড়া",
+    "category": "Crop Disease",
+    "plant_stage": "All Stages",
+    "problem_type": "Disease Identification",
+    "solution_type": "General Awareness",
+    "tags": [
+      "চাল কুমড়া রোগ",
+      "ডাউনি মিলডিউ",
+      "ফল মাছি",
+      "লিফ কার্ল"
+    ],
+    "content": "চাল কুমড়ায় ডাউনি মিলডিউ, ফল মাছি ও লিফ কার্ল রোগ দেখা যায়, যা গাছের বৃদ্ধি ও ফলন কমিয়ে দেয়।",
+    "retrieval_keywords": "চাল কুমড়া রোগ ফল মাছি ডাউনি মিলডিউ",
+    "language": "bn",
+    "difficulty": "beginner",
+    "source": "সবজি রোগ গাইড",
+    "embedding_text": "চাল কুমড়ার প্রধান রোগ: ডাউনি মিলডিউ, ফল মাছি।"
+  },
+  {
+    "id": "ag_bean_disease_0006",
+    "title": "শিম গাছে কোন কোন রোগ বা পোকা বেশি আক্রমণ করে?",
+    "crop": "শিম",
+    "category": "Crop Disease",
+    "plant_stage": "All Stages",
+    "problem_type": "Pest and Disease",
+    "solution_type": "General Awareness",
+    "tags": [
+      "শিম পোকা",
+      "এফিড",
+      "লিফ মাইনার",
+      "পড বোরার",
+      "ইয়েলো মোজাইক"
+    ],
+    "content": "শিম গাছে এফিড, লিফ মাইনার, পড বোরার এবং ইয়েলো মোজাইক ভাইরাসের আক্রমণ বেশি দেখা যায়, যা ফলন কমিয়ে দেয়।",
+    "retrieval_keywords": "শিম পোকা এফিড পড বোরার রোগ",
+    "language": "bn",
+    "difficulty": "beginner",
+    "source": "ডাল জাতীয় ফসল গাইড",
+    "embedding_text": "শিম গাছে এফিড, লিফ মাইনার ও পড বোরার আক্রমণ করে।"
+  }
+]

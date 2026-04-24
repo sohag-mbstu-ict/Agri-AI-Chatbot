@@ -1,0 +1,90 @@
+{
+  "ash gourd": {
+    "downy mildew": ["/static/crop_images/Ash_Gourd/Downy Mildew.jpg"],
+    "fruit fly": ["/static/crop_images/Ash_Gourd/Fruit fly.jpg"],
+    "leaf curl": ["/static/crop_images/Ash_Gourd/Leaf Curl.jpg"]
+  },
+  "banana": {
+    "beetlespot": [
+      "/static/crop_images/Banana/Beetle_spot/Beetle_spot Banana.jpg", "/static/crop_images/Banana/Beetle_spot/Beetle_spot1 Banana.jpg",
+      "/static/crop_images/Banana/Beetle_spot/Beetle_spot2 Banana.jpg", "/static/crop_images/Banana/Beetle_spot/Beetle_spot3 Banana.jpg",
+      "/static/crop_images/Banana/Beetle_spot/Beetle_spot4 Banana.jpg", "/static/crop_images/Banana/Beetle_spot/Beetle_spot5 Banana.jpg"
+    ],
+    "sigatoka": [
+      "/static/crop_images/Banana/Sigatoka/sigatoka Banana.jpg", "/static/crop_images/Banana/Sigatoka/sigatoka1 Banana.jpg",
+      "/static/crop_images/Banana/Sigatoka/sigatoka2 Banana.jpg", "/static/crop_images/Banana/Sigatoka/sigatoka3 Banana.jpg",
+      "/static/crop_images/Banana/Sigatoka/sigatoka4 Banana.jpg", "/static/crop_images/Banana/Sigatoka/sigatoka5 Banana.jpg",
+      "/static/crop_images/Banana/Sigatoka/sigatoka6 Banana.jpg", "/static/crop_images/Banana/Sigatoka/sigatoka7 Banana.jpg"
+    ],
+    "Panama": [
+      "/static/crop_images/Banana/Panama/Panama Banana.jpg", "/static/crop_images/Banana/Panama/Panama1 Banana.jpg",
+      "/static/crop_images/Banana/Panama/Panama2 Banana.jpg", "/static/crop_images/Banana/Panama/Panama3 Banana.jpg",
+      "/static/crop_images/Banana/Panama/Panama4 Banana.jpg"
+    ]
+  },
+  "rice": {
+    "Neck Blast": ["/static/crop_images/Rice/Neck_Blast/Neck_Blast rice.jpg","/static/crop_images/Rice/Neck_Blast/Neck_Blast1 rice.jpg",
+                  "/static/crop_images/Rice/Neck_Blast/Neck_Blast2 rice.jpg","/static/crop_images/Rice/Neck_Blast/Neck_Blast3 rice.jpg",
+                  "/static/crop_images/Rice/Neck_Blast/Neck_Blast4 rice.jpg","/static/crop_images/Rice/Neck_Blast/Neck_Blast5 rice.jpg"],
+    "Node Blast": ["/static/crop_images/Rice/Node_Blast/Node_Blast1 rice.jpg","/static/crop_images/Rice/Node_Blast/Node_Blast2 rice.jpg",
+                  "/static/crop_images/Rice/Node_Blast/Node_Blast3 rice.jpg","/static/crop_images/Rice/Node_Blast/Node_Blast4 rice.jpg",
+                  "/static/crop_images/Rice/Node_Blast/Node_Blast5 rice.jpg"],
+    "Leaf Blast": ["/static/crop_images/Rice/Leaf_Blast/Leaf_Blast rice.jpg","/static/crop_images/Rice/Leaf_Blast/Leaf_Blast1 rice.jpg",
+                 "/static/crop_images/Rice/Leaf_Blast/Leaf_Blast2 rice.jpg","/static/crop_images/Rice/Leaf_Blast/Leaf_Blast3 rice.jpg",
+                "/static/crop_images/Rice/Leaf_Blast/Leaf_Blast4 rice.jpg","/static/crop_images/Rice/Leaf_Blast/Leaf_Blast5 rice.jpg"],
+    "Stem borer Moth": ["/static/crop_images/Rice/Stem_borer_Moth/Stem_Borer_Moth rice.jpg","/static/crop_images/Rice/Stem_borer_Moth/Stem_Borer_Moth1 rice.jpg",
+                "/static/crop_images/Rice/Stem_borer_Moth/Stem_Borer_Moth2 rice.jpg","/static/crop_images/Rice/Stem_borer_Moth/Stem_Borer_Moth3 rice.jpg",
+                "/static/crop_images/Rice/Stem_borer_Moth/Stem_Borer_Moth4 rice.jpg","/static/crop_images/Rice/Stem_borer_Moth/Stem_Borer_Moth5 rice.jpg"],
+    "Stem Borer Larva": ["/static/crop_images/Rice/Stem_Borer_Larva/Stem_Borer_Larva rice.jpg","/static/crop_images/Rice/Stem_Borer_Larva/Stem_Borer_Larva1 rice.jpg",
+                        "/static/crop_images/Rice/Stem_Borer_Larva/Stem_Borer_Larva2 rice.jpg","/static/crop_images/Rice/Stem_Borer_Larva/Stem_Borer_Larva3 rice.jpg",
+                        "/static/crop_images/Rice/Stem_Borer_Larva/Stem_Borer_Larva4 rice.jpg","/static/crop_images/Rice/Stem_Borer_Larva/Stem_Borer_Larva5 rice.jpg"],
+    "False Smut": ["/static/crop_images/Rice/False_Smut/FalseSmut rice.JPG","/static/crop_images/Rice/False_Smut/FalseSmut1 rice.JPG",
+                 "/static/crop_images/Rice/False_Smut/FalseSmut2 rice.jpg","/static/crop_images/Rice/False_Smut/FalseSmut3 rice.jpg",
+                 "/static/crop_images/Rice/False_Smut/FalseSmut4 rice.jpg","/static/crop_images/Rice/False_Smut/FalseSmut5 rice.jpg"],
+    "Rice bug": ["/static/crop_images/Rice/Rice_bug/Ricebug rice.jpg","/static/crop_images/Rice/Rice_bug/Ricebug1 rice.jpg",
+                "/static/crop_images/Rice/Rice_bug/Ricebug2 rice.jpg","/static/crop_images/Rice/Rice_bug/Ricebug3 rice.jpg",
+                "/static/crop_images/Rice/Rice_bug/Ricebug4 rice.JPG","/static/crop_images/Rice/Rice_bug/Ricebug5 rice.JPG"],
+    "Deadheart": ["/static/crop_images/Rice/Deadheart/deadheart rice.jpg", "/static/crop_images/Rice/Deadheart/deadheart1 rice.jpg",
+                "/static/crop_images/Rice/Deadheart/deadheart2 rice.jpg", "/static/crop_images/Rice/Deadheart/deadheart3 rice.jpg",
+                "/static/crop_images/Rice/Deadheart/deadheart4 rice.jpg"],
+    "BPH": ["/static/crop_images/Rice/BPH/BPH rice.jpg","/static/crop_images/Rice/BPH/BPH1 rice.jpg",
+           "/static/crop_images/Rice/BPH/BPH2 rice.jpg", "/static/crop_images/Rice/BPH/BPH3 rice.jpeg",
+           "/static/crop_images/Rice/BPH/BPH4 rice.jpg"],
+    "Stem Borer Egg Mass": ["/static/crop_images/Rice/Stem_Borer_Egg_Mass/Stem_Borer_Egg_Mass rice.jpg","/static/crop_images/Rice/Stem_Borer_Egg_Mass/Stem_Borer_Egg_Mass1 rice.jpg",
+                          "/static/crop_images/Rice/Stem_Borer_Egg_Mass/Stem_Borer_Egg_Mass2 rice.jpg","/static/crop_images/Rice/Stem_Borer_Egg_Mass/Stem_Borer_Egg_Mass3 rice.jpg",
+                        "/static/crop_images/Rice/Stem_Borer_Egg_Mass/Stem_Borer_Egg_Mass4 rice.jpg","/static/crop_images/Rice/Stem_Borer_Egg_Mass/Stem_Borer_Egg_Mass5 rice.jpeg"],
+    "Leaf Folder": ["/static/crop_images/Rice/Leaf_Folder/Leaf_Folder rice.jpg","/static/crop_images/Rice/Leaf_Folder/Leaf_Folder1 rice.jpg",
+                  "/static/crop_images/Rice/Leaf_Folder/Leaf_Folder2 rice.jpg","/static/crop_images/Rice/Leaf_Folder/Leaf_Folder3 rice.jpg",
+                  "/static/crop_images/Rice/Leaf_Folder/Leaf_Folder4 rice.jpg","/static/crop_images/Rice/Leaf_Folder/Leaf_Folder5 rice.jpg"],
+    "Sheath rot": ["/static/crop_images/Rice/Sheath_rot/SheathRot rice.jpg","/static/crop_images/Rice/Sheath_rot/SheathRot1 rice.jpg",
+                  "/static/crop_images/Rice/Sheath_rot/SheathRot2 rice.jpg","/static/crop_images/Rice/Sheath_rot/SheathRot3 rice.jpg",
+                  "/static/crop_images/Rice/Sheath_rot/SheathRot4 rice.JPG","/static/crop_images/Rice/Sheath_rot/SheathRot5 rice.jpg"]
+  },
+  "bean": {
+    "aphid": ["/static/crop_images/Bean/aphid bean.jpeg"],
+    "pod Leaf Miner": ["/static/crop_images/Bean/leaf_miner bean.jpg"],
+    "Pod borer": ["/static/crop_images/Bean/pod_borer bean.jpg"],
+    "Yellow Mosaic Virus": ["/static/crop_images/Bean/yellow_mosaic_virus bean.jpg"]
+  },
+  "mango": {
+    "anthracnose_of_fruit": ["/static/crop_images/Mango/anthracnose_of_fruit mango.JPG"],
+    "anthracnose_of_leaf": ["/static/crop_images/Mango/anthracnose_of_leaf mango.jpg"],
+    "stem_end_rot": ["/static/crop_images/Mango/stem_end_rot mango.jpg"],
+    "dieback": ["/static/crop_images/Mango/dieback mango.JPG"],
+    "fruit_fly": ["/static/crop_images/Mango/fruit_fly mango.jpg"],
+    "leaf_red_rust": ["/static/crop_images/Mango/leaf_red_rust mango.jpg"],
+    "malformation": ["/static/crop_images/Mango/malformation mango.JPG"],
+    "mealybug": ["/static/crop_images/Mango/mealybug mango.jpg"],
+    "weevil": ["/static/crop_images/Mango/weevil mango.JPG"]
+  },
+
+  
+  
+  "indoor_plants": {
+    "indoor_plants1": ["/static/crop_images/indoor_plants/Indoor_Plants1 indoor_plants.jpg"]
+  },
+  "water_plants": {
+    "water_plants1": ["/static/crop_images/water_plants/Water_Plants1 water_plants.jpg"]
+  }
+}
+

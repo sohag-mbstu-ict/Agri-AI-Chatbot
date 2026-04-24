@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rooftop_garden_fertilizer_en_0001",
+    "title": "What Are the Biological Methods to Purify Tub or Pot Soil?",
+    "category": "Rooftop Garden Fertilizer",
+    "tags": ["soil purification", "biological soil treatment", "pot soil health"],
+    "content": "Biological soil purification methods include mixing compost (about one-fifth of the soil volume) to increase organic matter, nutrients, and water-holding capacity. Vermicompost at 5–10% improves nitrogen, phosphorus, and potassium levels, supporting healthy plant growth.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Urban Rooftop Gardening Practices"
+  },
+  {
+    "id": "rooftop_garden_fertilizer_en_0002",
+    "title": "How Do Beneficial Microorganisms Help Purify Tub Soil?",
+    "category": "Rooftop Garden Fertilizer",
+    "tags": ["trichoderma", "mycorrhiza", "beneficial microbes", "soil pathogens"],
+    "content": "Beneficial organisms like Trichoderma reduce soil-borne pathogens, Mycorrhizal fungi enhance root growth, and bacteria such as Azospirillum or Rhizobium fix nitrogen. These should be applied according to packet instructions.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Biological Soil Management Guide"
+  },
+  {
+    "id": "rooftop_garden_fertilizer_en_0003",
+    "title": "Can Green Manure Improve Soil Quality in Tubs?",
+    "category": "Rooftop Garden Fertilizer",
+    "tags": ["green manure", "soil fertility", "organic matter"],
+    "content": "Green manure materials such as lentils, barley, lupine, grass clippings, or decomposed kitchen waste like lemon peels and coffee grounds improve soil fertility, soften soil texture, and increase beneficial microbial activity.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Organic Soil Enrichment Manual"
+  },
+  {
+    "id": "rooftop_garden_fertilizer_en_0004",
+    "title": "What Are Simple Biological Ways to Disinfect Tub Soil?",
+    "category": "Rooftop Garden Fertilizer",
+    "tags": ["soil disinfection", "solarization", "neem cake"],
+    "content": "Soil can be biologically disinfected by mixing neem oil cake or Trichoderma into the soil. Solarization by covering moist soil with polythene and exposing it to strong sunlight raises temperatures to 50–60°C, killing pathogens, insects, and weed seeds.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Natural Soil Disinfection Techniques"
+  },
+  {
+    "id": "rooftop_garden_fertilizer_en_0005",
+    "title": "What Precautions Should Be Taken During Tub Soil Purification?",
+    "category": "Rooftop Garden Fertilizer",
+    "tags": ["soil preparation", "organic matter balance", "pot soil care"],
+    "content": "Avoid mixing too many organic materials at once, as it can make the soil heavy and poorly aerated. Organic inputs should be mixed 1–2 weeks before planting to allow proper decomposition and microbial balance.",
+    "language": "en",
+    "difficulty": "beginner",
+    "source": "Rooftop Pot Gardening Guidelines"
+  }
+]
