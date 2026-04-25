@@ -38,3 +38,11 @@ An intelligent agriculture-focused chatbot that combines Retrieval-Augmented Gen
 ## Interactive UI
   - Built with django, javascript, html css
   - Clean and user-friendly interface
+
+## Tech Stack
+  - LLM: Gemma (Fine-Tuned with SFT)
+  - Frameworks: LangChain, LangGraph
+  - Search Tools: Tavily, DuckDuckGo
+  - Data Sources: Wikipedia, Arxiv
+  - Embeddings: BGE / HuggingFace
+  - Vector Store: FAISS / Chroma
